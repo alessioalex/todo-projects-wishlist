@@ -27,3 +27,5 @@
   - https://docs.google.com/presentation/d/1cZujD518o38bQtYpmj3sxfCn0ZREsHPM5HvyszncT-c/pub?start=false&loop=false&delayms=3000#slide=id.g336040a48_329
   - https://github.com/traceglMPL/tracegl
   - https://github.com/adobe-research/theseus
+
+## Arduino stuff
